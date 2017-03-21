@@ -1,0 +1,20 @@
+D:\Documents and Settings\mhm\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Documents and Settings\mhm\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Documents and Settings\mhm\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\mhm\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Documents and Settings\mhm\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Documents and Settings\mhm\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\Documents and Settings\mhm\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Documents and Settings\mhm\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Documents and Settings\mhm\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\woman2.gif
+D:\Documents and Settings\mhm\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\woman23.GIF
+C:\figurebin\obj\Debug\WindowsFormsApplication3.exe
+C:\figurebin\obj\Debug\WindowsFormsApplication3.pdb
+C:\figurebin\bin\Debug\woman2.gif
+C:\figurebin\bin\Debug\woman23.GIF
+C:\figurebin\bin\Debug\WindowsFormsApplication3.exe
+C:\figurebin\bin\Debug\WindowsFormsApplication3.pdb
+C:\figurebin\obj\Debug\ResolveAssemblyReference.cache
+C:\figurebin\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\figurebin\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\figurebin\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
